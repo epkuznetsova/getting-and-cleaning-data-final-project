@@ -1,5 +1,6 @@
 # getting-and-cleaning-data-final-project
 Coursera: Final Project. Getting and Cleaning Data
+
 Hello everyone! 
 This is my final project for JHU Coursera Getting and Cleaning data! 
 
